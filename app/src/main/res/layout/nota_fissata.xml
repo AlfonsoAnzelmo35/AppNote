@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="30dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginBottom="30dp"
+
+    >
+
+    <LinearLayout
+        android:layout_marginBottom="10dp"
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="7"
+            android:text="NOTA FISSATA"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_piccolo" />
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/menu"
+            android:onClick="showBottomDialogMenu"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_piccolo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="20dp"
+        android:orientation="vertical"
+        android:background="@drawable/mio_text_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Da Fare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="Oggi"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

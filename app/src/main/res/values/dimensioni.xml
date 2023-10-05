@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_Dim">150dp</dimen>
+    <dimen name="card_height">230dp</dimen>
+    <dimen name="lineHeight">25dp</dimen>
+    <dimen name="text_size_piccolo">15dp</dimen>
+    <dimen name="text_size_medio">18dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <dimen name="text_size_medio_grande">25dp</dimen>
+    <dimen name="text_size_grande">30dp</dimen>
+</resources>
