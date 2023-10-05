@@ -2,7 +2,7 @@
 Semplice AppNote in android con l'aiuto di android studio per esplorare l'uso di quest'ultimo.
 
 ## questa è la home principale
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/AlfonsoAnzelmo35/AppNote/assets/125858912/a043df63-fa6b-4e7a-b5b6-4a46b6e34e4e))" width="200" />
+<img src="https://github.com/AlfonsoAnzelmo35/AppNote/assets/125858912/a043df63-fa6b-4e7a-b5b6-4a46b6e34e4e" width="200" />
 
 
 
